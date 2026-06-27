@@ -1,0 +1,8 @@
+@import "tailwindcss"; /* <-- Sintaxis oficial y optimizada de Tailwind v4 */
+
+body {
+  margin: 0;
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-family: system-ui, -apple-system, sans-serif;
+}
